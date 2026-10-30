@@ -13,3 +13,7 @@ Extensions:
 - File icon theme:
 
 Stopped at: "Your very first website"
+
+if you type `!` and hit tab in VSCode it will make some boilerplate HTML for you in a .html file! yay.
+
+starter files are in udemy-course/course-materials/htmls-css-course/starter/
