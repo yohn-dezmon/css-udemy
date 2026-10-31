@@ -15,3 +15,7 @@
 For elements without content, we omit the closing tag. e.g <img>
 
 # First project
+
+6 different headings.
+bold text via `<b>`... but not a good practice. Use strong element instead.
+`<i>`... or `<em>` (emphasize).
